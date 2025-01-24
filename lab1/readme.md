@@ -9,7 +9,7 @@ This project creates a basic web page with a header, footer, and main content.
 
 * *Harsh:* Developed the header and footer components (components/header.html, components/footer.html).
 * *Allen:* Created the main page content (mainpage.html).
-* *Parag:* Developed the initial index.html file and the overall project structure.
+* *Parag Jindal:* Developed the initial index.html file and the overall project structure.
 
 *Project Structure:*
 
