@@ -28,8 +28,3 @@ This project creates a basic web page with a header, footer, and main content.
 3. *Merging:* The branches were successfully merged into the main branch after review and approval.
 
 
-
-* This is a basic example. You can customize it further to include more details about the project, technologies used, and any specific challenges encountered during development.
-* Replace <repository_url> with the actual URL of your GitHub repository.
-
-I hope this helps!
